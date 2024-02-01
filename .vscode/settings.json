@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Objects",
+        "./MN_Yeast"
+    ]
+}
